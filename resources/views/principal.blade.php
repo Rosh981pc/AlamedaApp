@@ -76,7 +76,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="my-3">Nuestros productos</h4>
-                        <p class="text-muted"><strong>Garantía con prueba de laboratorio USAC, material con alta resistencia puesto en obra o en fabrica.</strong></p>
+                        <p class="text-muted"><strong>Garantía con pruebas de laboratorio, material con alta resistencia puesto en obra o en fabrica.</strong></p>
                     </div>
                 </div>
             </div>
@@ -154,8 +154,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tubos de concreto</div>
-                                <div class="portfolio-caption-subheading text-muted">Giroprensados. Para candela domiciliar.</div>
+                                <div class="portfolio-caption-heading">Tuberia giropren</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">Para drejajes y candelas.</div> -->
                             </div>
                         </div>
                     </div>
@@ -168,8 +168,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tubos de concreto</div>
-                                <div class="portfolio-caption-subheading text-muted">Vibrocompactado. Tuberia simple, reforzada, filtro o perforada.</div>
+                                <div class="portfolio-caption-heading">Tuberia vibrock</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">Tuberia simple, reforzada, filtro o perforada.</div> -->
                             </div>
                         </div>
                     </div>
@@ -309,25 +309,27 @@
                     <h3 class="section-subheading text-muted"><p>Ingrese sus datos de contacto y los productos que desea cotiza, <br>un representante de ventas se comunicara con usted lo mas pronto posible <br>ó <br>Tel. 7768-9199</p></h3>
                     <!-- <h3 class="section-subheading text-muted">un representante de ventas se comunicara con usted lo mas pronto posible.</h3> -->
                 </div>
-                <form id="contactForm" name="sentMessage" novalidate="novalidate">
+                <!-- <form id="contactForm" name="sentMessage" novalidate="novalidate"> -->
+                <form method="POST" action="{{ route('cotizar') }}">
+                    {{ csrf_field() }}
                     <div class="row align-items-stretch mb-5">
                         <div class="col-md-6">
                             <div class="form-group">
-                                <input class="form-control" id="name" type="text" placeholder="Nombre *" required="required" data-validation-required-message="Porfavor ingrese su nombre." />
+                                <input class="form-control" name="name" type="text" placeholder="Nombre *" required="required" data-validation-required-message="Porfavor ingrese su nombre." />
                                 <p class="help-block text-danger"></p>
                             </div>
                             <div class="form-group">
-                                <input class="form-control" id="email" type="email" placeholder="Correo electrónico *" required="required" data-validation-required-message="Porfavor ingrese su correo electrónico." />
+                                <input class="form-control" name="email" type="email" placeholder="Correo electrónico *" required="required" data-validation-required-message="Porfavor ingrese su correo electrónico." />
                                 <p class="help-block text-danger"></p>
                             </div>
                             <div class="form-group mb-md-0">
-                                <input class="form-control" id="phone" type="tel" placeholder="Numero de teléfono *" required="required" data-validation-required-message="Porfavor ingrese su numero telefónico." />
+                                <input class="form-control" name="phone" type="tel" placeholder="Numero de teléfono *" required="required" data-validation-required-message="Porfavor ingrese su numero telefónico." />
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group form-group-textarea mb-md-0">
-                                <textarea class="form-control" id="message" placeholder="Productos a cotizar ó mensaje *" required="required" data-validation-required-message="Ingresar mensaje."></textarea>
+                                <textarea class="form-control" name="message" placeholder="Productos a cotizar ó mensaje *" required="required" data-validation-required-message="Ingresar mensaje."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
@@ -367,18 +369,29 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/01-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">BROCAL MAS TAPADERA DE CONCRETO REFORZADO</h2>
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    <!-- <p> </p> -->
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-brocal.png" alt="" />
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Threads</li>
-                                        <li>Category: Illustration</li>
+                                        <li><strong>Diametros interiores:</strong></li>
+                                        <li>- 500 mm</li>
+                                        <li>- 800 mm</li>
+                                        <li>- 1,000 mm</li>
+                                        <li>- 1,200 mm</li>
                                     </ul>
+                                    <ul class="list-inline">
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Longitud total: 1.00 mt</li>
+                                        <li>- Peso aproximado: 4.00 qq</li>
+                                    </ul>
+                                    <p>Es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>
+                                    En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el brocal + tapadera de concreto asegura no incrementar costos en obra</p>
+                                    
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>

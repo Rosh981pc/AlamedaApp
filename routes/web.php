@@ -14,3 +14,6 @@
 Route::get('/', function () {
     return view('principal');
 });
+
+Route::post('cotizar', 'CotizadorController@store')->name('cotizar');
+// Route::get('cotizador', 'CotizadorController@create');
