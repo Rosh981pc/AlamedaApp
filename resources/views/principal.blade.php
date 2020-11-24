@@ -30,7 +30,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Nosotros</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo</a></li> -->
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
                         <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li>
                     </ul>
@@ -239,41 +239,41 @@
             </div>
         </section>
         <!-- Team-->
-        <section class="page-section bg-light" id="team">
+        <!-- <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Nuestro Equipo</h2>
-                    <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="" />
                             <h4>Jaime Escobar</h4>
-                            <!-- <p class="text-muted">Lead Designer</p> -->
+                            <p class="text-muted">Lead Designer</p> -->
                             <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> 
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="" />
                             <h4>Arq. Julio Escobar</h4>
-                            <!-- <p class="text-muted">Lead Marketer</p>
+                            <p class="text-muted">Lead Marketer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="" />
                             <h4>Aramis Escobar</h4>
-                            <!-- <p class="text-muted">Lead Developer</p>
+                            <p class="text-muted">Lead Developer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> 
                         </div>
                     </div>
                 </div>
@@ -281,7 +281,7 @@
                     <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Clients-->
         <div class="py-5">
             <div class="container">
