@@ -8,9 +8,9 @@
     <p>Nombre del solicitante: {{$msj['name']}}</p>
     <p>Tel. {{$msj['phone']}}</p>
     @if($msj['recoger'] == 1)
-        <p><strong>Se recogeria en la fabrica.</strong></p>
+        <p><strong>Se recogería en la fabrica.</strong></p>
     @elseif($msj['recoger'] == 0)
-        <p><strong>Se enviaria el producto.</strong></p>
+        <p><strong>Se enviaría el producto.</strong></p>
     @endif
     <p>Responder a: {{$msj['email']}}</p>
     <p>Mensaje:</p>
