@@ -328,6 +328,15 @@
                             </div>
                         </div>
                         <div class="col-md-6">
+                            <div class="form-group mb-md-0">
+                                <select class="form-control" name="recoger" id="estadoRecoger">
+                                    <option value="">Seleccione... Recoger o enviar?</option>
+                                    <option value="1">Recoger en fabrica</option>
+                                    <option value="0">Entrega en..</option>
+                                </select>
+                                <!-- <input class="form-control" name="phone" type="tel" placeholder="Numero de teléfono *" required="required" data-validation-required-message="Porfavor ingrese su numero telefónico." /> -->
+                                <p class="help-block text-danger"></p>
+                            </div>
                             <div class="form-group form-group-textarea mb-md-0">
                                 <textarea class="form-control" name="message" placeholder="Productos a cotizar ó mensaje *" required="required" data-validation-required-message="Ingresar mensaje."></textarea>
                                 <p class="help-block text-danger"></p>

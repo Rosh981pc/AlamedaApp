@@ -12,6 +12,7 @@ class CotizadorController extends Controller
         $message = request()->validate([
             'name' => 'required',
             'email' => 'required',
+            'recoger' => 'required',
             'phone' => 'required',
             'message' => 'required'
         ]);
