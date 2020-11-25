@@ -41,7 +41,7 @@
         <header class="masthead">
             <div class="container">
                 <!-- <div class="masthead-subheading">Welcome To Our Studio!</div> -->
-                <div class="masthead-heading text-uppercase">A puro tubo!</div>
+                <div class="masthead-heading text-uppercase ">A puro tubo! &trade;</div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¿Quienes somos?</a>
             </div>
         </header>
@@ -126,7 +126,8 @@
                                 <img class="img-fluid" src="assets/img/portfolio/03-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Caja para contador</div>
+                                <!-- <div class="portfolio-caption-heading">Caja para contador</div> -->
+                                <div class="portfolio-caption-heading">Caja de cemento</div>
                                 <div class="portfolio-caption-subheading text-muted">-</div>
                             </div>
                         </div>
@@ -238,50 +239,7 @@
                 </ul>
             </div>
         </section>
-        <!-- Team-->
-        <!-- <section class="page-section bg-light" id="team">
-            <div class="container">
-                <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Nuestro Equipo</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="" />
-                            <h4>Jaime Escobar</h4>
-                            <p class="text-muted">Lead Designer</p> -->
-                            <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> 
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="" />
-                            <h4>Arq. Julio Escobar</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="" />
-                            <h4>Aramis Escobar</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> 
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
-                </div>
-            </div>
-        </section> -->
+        
         <!-- Clients-->
         <div class="py-5">
             <div class="container">
@@ -367,8 +325,8 @@
                 </div>
             </div>
         </footer>
-        <!-- Portfolio Modals-->
-        <!-- Modal 1-->
+        <!-- Productos Modals-->
+        <!-- Modal BROCALES-->
         <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -409,7 +367,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal 2-->
+        <!-- Modal REPOSADERA-->
         <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -419,18 +377,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">REPOSADERA DE CEMENTO</h2>
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/02-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p> -->
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Explore</li>
-                                        <li>Category: Graphic Design</li>
+                                        <li><strong>Dimensiones:</strong></li>
+                                        <li>- Pequena 25 x 25cm</li>
+                                        <li>- Grande 40 x 40cm</li>
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -439,7 +397,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal 3-->
+        <!-- Modal CAJA DE CEMENTO-->
         <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -449,18 +407,22 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/03-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">CAJA DE CEMENTO PARA USO GENERAL.</h2>
+                                    <p class="item-intro text-muted">0.60 x 0.60 x 0.60 m.</p>
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-caja.png" alt="" />
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Finish</li>
-                                        <li>Category: Identity</li>
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Longitud total: 1.00 mt</li>
+                                        <li>- Peso aproximado: 4.00 qq</li>
                                     </ul>
+                                    <p>La caja de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.
+                                    <br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.
+                                    <br>Por su diseño confiable y rápida instalación, la caja de cemento asegura no incrementar costos en obra.
+                                    </p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -469,7 +431,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal 4-->
+        <!-- Modal REJILLAS-->
         <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -479,18 +441,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                    <h2 class="text-uppercase">REJILLA DE CEMENTO</h2>
+                                    <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p> -->
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Lines</li>
-                                        <li>Category: Branding</li>
+                                        <li><strong>Diametros interiores:</strong></li>
+                                        <li>- Rejilla simple: 0.10x0.50x1.00m</li>
+                                        <li>- Rejilla reforzada: 0.20x0.50x1.00m</li>
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -499,7 +461,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal 5-->
+        <!-- Modal TUBO GIROPREN-->
         <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -509,18 +471,33 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/05-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">TUBOS DE CEMENTO GIROPRENSADO </h2>
+                                    <p class="item-intro text-muted">Diametros interiores de 6" a 42"</p>
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
+                                    <p><strong>Tubo de 12" (305mm) de campana con junta de mortero.</strong></p>
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Southwest</li>
-                                        <li>Category: Website Design</li>
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Diametro interior(Nominal): 12"</li>
+                                        <li>- Longitud interna: 97cm</li>
+                                        <li>- Longitud total: 100cm</li>
+                                        <li>- Espesor de las paredes: 30mm</li>
+                                        <li>- Peso aproximado: 1 qq</li>
+                                    </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p><strong>Tubo de 16" (406mm) estandar con junta de mortero.</strong></p>
+                                    <ul class="list-inline">
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Diametro interior(Nominal): 16"</li>
+                                        <li>- Longitud interna: 1.05m</li>
+                                        <li>- Longitud total: 108cm</li>
+                                        <li>- Espesor de las paredes: 76mm</li>
+                                        <li>- Peso aproximado: 1.75 qq</li>
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
@@ -529,7 +506,7 @@
                 </div>
             </div>
         </div>
-        <!-- Modal 6-->
+        <!-- Modal TUBO VIBROCK-->
         <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
             <div class="modal-dialog">
                 <div class="modal-content">
@@ -539,18 +516,46 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/06-full.jpg" alt="" />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPRESADO </h2>
+                                    <p class="item-intro text-muted">Diametros interiores de 6" a 50"</p>
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    
+                                    <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p><strong>Tubo de 20" estandar con junta de mortero.</strong></p>
                                     <ul class="list-inline">
-                                        <li>Date: January 2020</li>
-                                        <li>Client: Window</li>
-                                        <li>Category: Photography</li>
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Diametro interior(Nominal): 20"</li>
+                                        <li>- Longitud interna: 0.945m</li>
+                                        <li>- Longitud total: 1.0m</li>
+                                        <li>- Espesor de las paredes: 75mm</li>
+                                        <li>- Peso aproximado: 2 qq</li>
+                                    </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p><strong>Tubo de 30" (406mm) perforado con junta de mortero.</strong></p>
+                                    <ul class="list-inline">
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Diametro interior(Nominal): 760mm</li>
+                                        <li>- Longitud interna: 0.94m</li>
+                                        <li>- Longitud total: 1m</li>
+                                        <li>- Espesor de las paredes: 100mm</li>
+                                        <li>- Peso aproximado: 5.5 qq</li>
+                                        <li>- Perforaciones: 12</li>
+                                        <li>- Diametro aproximado de perforación: 1 3/4"</li>
+                                    </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p><strong>Tubo de 30" (406mm) reforzado con junta de mortero.</strong></p>
+                                    <ul class="list-inline">
+                                        <li><strong>Caracteristicas:</strong></li>
+                                        <li>- Diametro interior(Nominal): 30"</li>
+                                        <li>- Longitud interna: 0.94m</li>
+                                        <li>- Longitud total: 1m</li>
+                                        <li>- Espesor de las paredes: 100mm</li>
+                                        <li>- Peso aproximado: 6 qq</li>
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
-                                        Close Project
+                                        Cerrar
                                     </button>
                                 </div>
                             </div>
