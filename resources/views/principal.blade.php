@@ -30,7 +30,6 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Nosotros</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
-                        <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo</a></li> -->
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
                         <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li>
                     </ul>
@@ -40,7 +39,7 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <!-- <div class="masthead-subheading">Welcome To Our Studio!</div> -->
+                <div class="masthead-subheading">.</div>
                 <div class="masthead-heading text-uppercase ">A puro tubo! &trade;</div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¿Quienes somos?</a>
             </div>
@@ -67,16 +66,16 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Nosotros</h4>
+                        <h4 class="my-3"><a class="nav-link" href="#about">Nosotros</a></h4>
                         <p class="text-muted"><strong>Somos fabricantes exclusivos de productos de cemento, tubos para drenaje y pozos. La tubería en base a especificaciones técnicas.</strong></p>
                     </div>
                     <div class="col-md-6">
-                        <span class="fa-stack fa-4x">
+                        <span class="fa-stack fa-4x" href="#portfolio">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Nuestros productos</h4>
-                        <p class="text-muted"><strong>Garantía con pruebas de laboratorio, material con alta resistencia puesto en obra o en fabrica.</strong></p>
+                        <h4 class="my-3"><a class="nav-link" href="#portfolio">Nuestros productos</a></h4>
+                        <p class="text-muted" href="#portfolio"><strong>Garantía con pruebas de laboratorio, material con alta resistencia puesto en obra o en fabrica.</strong></p>
                     </div>
                 </div>
             </div>
