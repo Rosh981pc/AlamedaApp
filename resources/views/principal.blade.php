@@ -20,18 +20,18 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/navbar-logo.png" alt="" /></a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/navbar-logo.png" /></a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ml-1"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Nosotros</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
-                        <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services"><strong>Nosotros</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio"><strong>Productos</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
+                        <li class="nav-item"><a class="nav-link href="#"><strong>INGRESAR</strong></a></li>
                     </ul>
                 </div>
             </div>
@@ -39,8 +39,8 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">.</div>
-                <div class="masthead-heading text-uppercase ">A puro tubo! &trade;</div>
+                <!-- <div class="masthead-subheading">`</div> -->
+                <div id="concha" class=" masthead-heading text-uppercase ">A puro tubo! </div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¿Quienes somos?</a>
             </div>
         </header>
@@ -48,7 +48,7 @@
         <section class="page-section" id="services">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Fabrica de Tubos Alameda de Occidente</h2>
+                    <h2 class="section-heading text-uppercase">Fabrica de Tubos y productos de cemento Alameda de Occidente S.A.</h2>
                     <!-- <h2 class="section-heading text-uppercase">Nosotros</h2> -->
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
@@ -63,18 +63,20 @@
                     </div> -->
                     <div class="col-md-6">
                         <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                            <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-laptop fa-stack-1x fa-inverse"></i> -->
+                            <img class="img-fluid" src="assets/img/nos.png" alt="" />
                         </span>
-                        <h4 class="my-3"><a class="nav-link" href="#about">Nosotros</a></h4>
+                        <h4 class="my-3"><a class="nav-link js-scroll-trigger" href="#about">Nosotros</a></h4>
                         <p class="text-muted"><strong>Somos fabricantes exclusivos de productos de cemento, tubos para drenaje y pozos. La tubería en base a especificaciones técnicas.</strong></p>
                     </div>
                     <div class="col-md-6">
                         <span class="fa-stack fa-4x" href="#portfolio">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
+                            <!-- <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-lock fa-stack-1x fa-inverse"></i> -->
+                            <img class="img-fluid" src="assets/img/prod.png" alt="" />
                         </span>
-                        <h4 class="my-3"><a class="nav-link" href="#portfolio">Nuestros productos</a></h4>
+                        <h4 class="my-3"><a class="nav-link js-scroll-trigger" href="#portfolio">Nuestros productos</a></h4>
                         <p class="text-muted" href="#portfolio"><strong>Garantía con pruebas de laboratorio, material con alta resistencia puesto en obra o en fabrica.</strong></p>
                     </div>
                 </div>
@@ -185,45 +187,49 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="" /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/A.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>1980</h4>
+                                <h4>1987</h4>
                                 <h4 class="subheading">Fundación de la fabrica Alameda de Occidente</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <!-- <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>March 2011</h4>
-                                <h4 class="subheading">An Agency is Born</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="" /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>December 2012</h4>
-                                <h4 class="subheading">Transition to Full Service</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">Año en cual Vinicio Cerezo fue electo como el 40 presidente de la república. 
+                                El fundador junto con un socio ingeniero llegaron a Quetzaltenango en búsqueda de un terreno que cumpliera con sus expectativas, 
+                                dando como resultado el un terreno pantanoso el cual el fundador y socio trabajaron para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="" /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/B.jpg" alt="" /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>July 2014</h4>
-                                <h4 class="subheading">Phase Two Expansion</h4>
+                                <h4>1989</h4>
+                                <h4 class="subheading">Implementación de drenaje en el casco urbano de San Mateo</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                            <div class="timeline-body"><p class="text-muted">En esa época el gobierno aumentó el capital de las municipalidades para que pudieran realizar sus drenajes principales de sus cascos urbanos.</p></div>
                         </div>
-                    </li> -->
+                    </li>
+                    <li>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/C.jpg" alt="" /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>1994</h4>
+                                <h4 class="subheading">Fabrica Alameda de Occidente S.A.</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Durante mucho tiempo de trabajo, el socio ingeniero decidió retirar toda relación con la fábrica en Quetzaltenango, 
+                                por lo que el fundador tomó la decisión de pagarle la parte del socio. Tiempo después el fundador inició una sociedad anónima incluyendo a dos socios diferentes.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/D.jpg" alt="" /></div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>1990s</h4>
+                                <h4 class="subheading">Colaboración con elaboración de carreteras de la República</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">Con la llegada de la organización CARE y la implementación de la carretera de Quetzaltenango a los encuentros el 
+                                fundador compró el primer camión de la fábrica para poder entregar el material para la elaboración de la carretera, así como con una organización europea y su desarrollo de carreteras en el municipio de Panajachel.</p></div>
+                        </div>
+                    </li>
                     <li class="timeline-inverted">
                         <div class="timeline-image">
                             <h4>
@@ -240,7 +246,7 @@
         </section>
         
         <!-- Clients-->
-        <div class="py-5">
+        <!-- <div class="py-5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6 my-3">
@@ -257,7 +263,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
@@ -342,10 +348,10 @@
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-brocal.png" alt="" />
                                     <ul class="list-inline">
                                         <li><strong>Diametros interiores:</strong></li>
-                                        <li>- 500 mm</li>
-                                        <li>- 800 mm</li>
-                                        <li>- 1,000 mm</li>
-                                        <li>- 1,200 mm</li>
+                                        <li>- 50 cm</li>
+                                        <li>- 80 cm</li>
+                                        <li>- 100 cm</li>
+                                        <li>- 120 cm</li>
                                     </ul>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -471,7 +477,7 @@
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO GIROPRENSADO </h2>
-                                    <p class="item-intro text-muted">Diametros interiores de 6" a 42"</p>
+                                    <p class="item-intro text-muted">Diametros interiores de 6" a 18"</p>
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
@@ -516,7 +522,7 @@
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPRESADO </h2>
-                                    <p class="item-intro text-muted">Diametros interiores de 6" a 50"</p>
+                                    <p class="item-intro text-muted">Diametros interiores de 20" a 50"</p>
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
