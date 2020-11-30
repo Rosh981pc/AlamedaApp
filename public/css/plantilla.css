@@ -10082,9 +10082,12 @@ img::-moz-selection {
   /* text-shadow: 1px 0 0 #313131, -1px 0 0 #7c7e7c, 0 1px 0 #7c7e7c, 0 -1px 0 #7c7e7c, 0.5px 0.5px #7c7e7c, -0.5px -0.5px 0 #7c7e7c, 0.5px -0.5px 0 #7c7e7c, -0.5px 0.5px 0 #7c7e7c; */
   text-shadow: 1px 0 0 #2e492c, -1px 0 0 #2e492c, 0 1px 0 #2e492c, 0 -1px 0 #2e492c, 0.5px 0.5px #2e492c, -0.5px -0.5px 0 #2e492c, 0.5px -0.5px 0 #2e492c, -0.5px 0.5px 0 #2e492c;
 }
+#centradoo {
+  text-align:center;
+}
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 0.95rem;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 1.25rem;
   color: #fff;
   letter-spacing: 0.0625em;
 }

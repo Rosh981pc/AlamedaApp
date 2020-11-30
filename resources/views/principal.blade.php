@@ -27,11 +27,12 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services"><strong>Nosotros</strong></a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio"><strong>Productos</strong></a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
-                        <li class="nav-item"><a class="nav-link href="#"><strong>INGRESAR</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi">Ubicación</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
+                        <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li>
                     </ul>
                 </div>
             </div>
@@ -246,13 +247,22 @@
         </section>
         
         <!-- Clients-->
-        <!-- <div class="py-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6 my-3">
+        <div class="py-3" id="ubi">
+        
+            <div id="centradoo" class="container">
+            <iframe  src="https://www.google.com/maps/d/u/0/embed?mid=1Lkj86rM6U6_9Z-JrMjZp1lLUvngZYaQv" width="640" height="480"></iframe>
+                
+                <!-- <div > -->
+                    <!-- <div class="col-lg-4 my-3 my-lg-0"> -->
+                        <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> -->
+                        
+                        <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                    <!-- </div> -->
+                    <!-- <div class="text-center">
                         <a href="#!"><img class="img-fluid d-block mx-auto" src="assets/img/logos/envato.jpg" alt="" /></a>
-                    </div>
-                    <div class="col-md-3 col-sm-6 my-3">
+                        
+                    </div> -->
+                    <!-- <div class="col-md-3 col-sm-6 my-3">
                         <a href="#!"><img class="img-fluid d-block mx-auto" src="assets/img/logos/designmodo.jpg" alt="" /></a>
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
@@ -260,10 +270,11 @@
                     </div>
                     <div class="col-md-3 col-sm-6 my-3">
                         <a href="#!"><img class="img-fluid d-block mx-auto" src="assets/img/logos/creative-market.jpg" alt="" /></a>
-                    </div>
-                </div>
+                    </div> -->
+                <!-- </div> -->
+                <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Lkj86rM6U6_9Z-JrMjZp1lLUvngZYaQv" width="640" height="480"></iframe> -->
             </div>
-        </div> -->
+        </div>
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
@@ -308,7 +319,7 @@
                     </div>
                     <div class="text-center">
                         <div id="success"></div>
-                        <button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Enviar</button>
+                        <button  class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Enviar</button>
                     </div>
                 </form>
             </div>
