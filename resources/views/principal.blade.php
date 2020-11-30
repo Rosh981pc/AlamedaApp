@@ -32,7 +32,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi">Ubicación</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
-                        <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li>
+                        <!-- <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li> -->
                     </ul>
                 </div>
             </div>
