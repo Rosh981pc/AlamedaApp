@@ -27,12 +27,12 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Nosotros</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Productos</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Historia</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi">Ubicación</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Cotizador</a></li>
-                        <!-- <li class="nav-item"><a class="nav-link href="#">INGRESAR</a></li> -->
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services"><strong>Nosotros</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio"><strong>Productos</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi"><strong>Ubicación</strong></a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
+                        <!-- <li class="nav-item"><a class="nav-link href="#"><strong>INGRESAR</strong></a></li> -->
                     </ul>
                 </div>
             </div>
@@ -69,7 +69,7 @@
                             <img class="img-fluid" src="assets/img/nos.png" alt="" />
                         </span>
                         <h4 class="my-3"><a class="nav-link js-scroll-trigger" href="#about">Nosotros</a></h4>
-                        <p class="text-muted"><strong>Somos fabricantes exclusivos de productos de cemento, tubos para drenaje y pozos. La tubería en base a especificaciones técnicas.</strong></p>
+                        <p class="text-muted"><strong>Somos fabricantes exclusivos de tubos y otros productos de cemento. La tubería puede ser elaborada en base a especificaciones técnicas deseadas.</strong></p>
                     </div>
                     <div class="col-md-6">
                         <span class="fa-stack fa-4x" href="#portfolio">
@@ -115,7 +115,7 @@
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Reposaderas</div>
-                                <div class="portfolio-caption-subheading text-muted">-</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">-</div> -->
                             </div>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                             <div class="portfolio-caption">
                                 <!-- <div class="portfolio-caption-heading">Caja para contador</div> -->
                                 <div class="portfolio-caption-heading">Caja de cemento</div>
-                                <div class="portfolio-caption-subheading text-muted">-</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">-</div> -->
                             </div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Rejillas</div>
-                                <div class="portfolio-caption-subheading text-muted">-</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">-</div> -->
                             </div>
                         </div>
                     </div>
@@ -157,7 +157,7 @@
                                 <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tuberia giropren</div>
+                                <div class="portfolio-caption-heading">Tubería giropren</div>
                                 <!-- <div class="portfolio-caption-subheading text-muted">Para drejajes y candelas.</div> -->
                             </div>
                         </div>
@@ -171,7 +171,7 @@
                                 <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tuberia vibrock</div>
+                                <div class="portfolio-caption-heading">Tubería vibrock</div>
                                 <!-- <div class="portfolio-caption-subheading text-muted">Tuberia simple, reforzada, filtro o perforada.</div> -->
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                 <h4>1987</h4>
                                 <h4 class="subheading">Fundación de la fabrica Alameda de Occidente</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Año en cual Vinicio Cerezo fue electo como el 40 presidente de la república. 
+                            <div class="timeline-body"><p class="text-muted">Año en cual Vinicio Cerezo fue electo como el presidente de la República. 
                                 El fundador junto con un socio ingeniero llegaron a Quetzaltenango en búsqueda de un terreno que cumpliera con sus expectativas, 
                                 dando como resultado el un terreno pantanoso el cual el fundador y socio trabajaron para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
                         </div>
@@ -335,7 +335,7 @@
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
                     </div>
                     <div class="col-lg-4 text-lg-right">
-                        <a class="mr-3" >7769-9199</a>
+                        <a class="mr-3" >7768-9199</a>
                         <a >tubosalameda@gmail.com</a>
                     </div>
                 </div>
