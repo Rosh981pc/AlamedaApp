@@ -10079,8 +10079,8 @@ img::-moz-selection {
   height: 1.5rem;
 }
 #concha {
-  /* text-shadow: 1px 0 0 #313131, -1px 0 0 #7c7e7c, 0 1px 0 #7c7e7c, 0 -1px 0 #7c7e7c, 0.5px 0.5px #7c7e7c, -0.5px -0.5px 0 #7c7e7c, 0.5px -0.5px 0 #7c7e7c, -0.5px 0.5px 0 #7c7e7c; */
-  text-shadow: 1px 0 0 #2e492c, -1px 0 0 #2e492c, 0 1px 0 #2e492c, 0 -1px 0 #2e492c, 0.5px 0.5px #2e492c, -0.5px -0.5px 0 #2e492c, 0.5px -0.5px 0 #2e492c, -0.5px 0.5px 0 #2e492c;
+  
+  text-shadow: 1px 0 0 #fff, -1px 0 0 #fff, 0 1px 0 #fff, 0 -1px 0 #fff, 0.5px 0.5px #fff, -0.5px -0.5px 0 #fff, 0.5px -0.5px 0 #fff, -0.5px 0.5px 0 #fff;
 }
 #centradoo {
   text-align:center;
@@ -10137,7 +10137,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #447140;
-  /* opacity: 0.85; */
+  /* color: #000000; */
   background-image: url("../assets/img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;

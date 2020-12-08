@@ -40,7 +40,7 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <!-- <div class="masthead-subheading">`</div> -->
+                <div class="masthead-subheading">.</div>
                 <div id="concha" class=" masthead-heading text-uppercase ">A puro tubo! </div>
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¿Quienes somos?</a>
             </div>
@@ -91,6 +91,34 @@
                     <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
                 </div>
                 <div class="row">
+                <div class="col-lg-4 col-sm-6">
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Tubería Vibrock&reg;</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">Tuberia simple, reforzada, filtro o perforada.</div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                        <div class="portfolio-item">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                                </div>
+                                <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
+                            </a>
+                            <div class="portfolio-caption">
+                                <div class="portfolio-caption-heading">Tubería Giropren&reg;</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">Para drejajes y candelas.</div> -->
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
                             <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
@@ -102,20 +130,6 @@
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Brocales</div>
                                 <div class="portfolio-caption-subheading text-muted">-</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/02-thumbnail.jpg" alt="" />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Reposaderas</div>
-                                <!-- <div class="portfolio-caption-subheading text-muted">-</div> -->
                             </div>
                         </div>
                     </div>
@@ -148,34 +162,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                    <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
+                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/05-thumbnail.jpg" alt="" />
+                                <img class="img-fluid" src="assets/img/portfolio/02-thumbnail.jpg" alt="" />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tubería giropren</div>
-                                <!-- <div class="portfolio-caption-subheading text-muted">Para drejajes y candelas.</div> -->
+                                <div class="portfolio-caption-heading">Reposaderas</div>
+                                <!-- <div class="portfolio-caption-subheading text-muted">-</div> -->
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/06-thumbnail.jpg" alt="" />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Tubería vibrock</div>
-                                <!-- <div class="portfolio-caption-subheading text-muted">Tuberia simple, reforzada, filtro o perforada.</div> -->
-                            </div>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>
@@ -353,10 +354,10 @@
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">BROCAL MAS TAPADERA DE CONCRETO REFORZADO</h2>
-                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    <!-- <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p> -->
                                     <!-- <p> </p> -->
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-brocal.png" alt="" />
+                                    
                                     <ul class="list-inline">
                                         <li><strong>Diametros interiores:</strong></li>
                                         <li>- 50 cm</li>
@@ -369,6 +370,8 @@
                                         <li>- Longitud total: 1.00 mt</li>
                                         <li>- Peso aproximado: 4.00 qq</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-brocal.png" alt="" />
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <p>Es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>
                                     En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el brocal + tapadera de concreto asegura no incrementar costos en obra</p>
                                     
@@ -395,13 +398,14 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">REPOSADERA DE CEMENTO</h2>
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/02-full.jpg" alt="" />
+                                    
                                     <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p> -->
                                     <ul class="list-inline">
                                         <li><strong>Dimensiones:</strong></li>
                                         <li>- Pequena 25 x 25cm</li>
                                         <li>- Grande 40 x 40cm</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/02-full.jpg" alt="" />
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
                                         Cerrar
@@ -425,13 +429,15 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">CAJA DE CEMENTO PARA USO GENERAL.</h2>
                                     <p class="item-intro text-muted">0.60 x 0.60 x 0.60 m.</p>
-                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-caja.png" alt="" />
+                                    <!-- <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p> -->
+                                    
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
                                         <li>- Longitud total: 1.00 mt</li>
                                         <li>- Peso aproximado: 4.00 qq</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-caja.png" alt="" />
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <p>La caja de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.
                                     <br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.
                                     <br>Por su diseño confiable y rápida instalación, la caja de cemento asegura no incrementar costos en obra.
@@ -459,13 +465,14 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">REJILLA DE CEMENTO</h2>
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" />
+                                    
                                     <!-- <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p> -->
                                     <ul class="list-inline">
                                         <li><strong>Diametros interiores:</strong></li>
                                         <li>- Rejilla simple: 0.10x0.50x1.00m</li>
                                         <li>- Rejilla reforzada: 0.20x0.50x1.00m</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/04-full.jpg" alt="" />
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
                                         Cerrar
@@ -489,9 +496,9 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO GIROPRENSADO </h2>
                                     <p class="item-intro text-muted">Diametros interiores de 6" a 18"</p>
-                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
+                                    
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
+                                    
                                     <p><strong>Tubo de 12" (305mm) de campana con junta de mortero.</strong></p>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -501,7 +508,8 @@
                                         <li>- Espesor de las paredes: 30mm</li>
                                         <li>- Peso aproximado: 1 qq</li>
                                     </ul>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
+                                    
                                     <p><strong>Tubo de 16" (406mm) estandar con junta de mortero.</strong></p>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -511,6 +519,8 @@
                                         <li>- Espesor de las paredes: 76mm</li>
                                         <li>- Peso aproximado: 1.75 qq</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
                                         Cerrar
@@ -534,10 +544,7 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPRESADO </h2>
                                     <p class="item-intro text-muted">Diametros interiores de 20" a 50"</p>
-                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     
-                                    <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
                                     <p><strong>Tubo de 20" estandar con junta de mortero.</strong></p>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -548,6 +555,7 @@
                                         <li>- Peso aproximado: 2 qq</li>
                                     </ul>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    
                                     <p><strong>Tubo de 30" (406mm) perforado con junta de mortero.</strong></p>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -560,6 +568,7 @@
                                         <li>- Diametro aproximado de perforación: 1 3/4"</li>
                                     </ul>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    
                                     <p><strong>Tubo de 30" (406mm) reforzado con junta de mortero.</strong></p>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -569,6 +578,9 @@
                                         <li>- Espesor de las paredes: 100mm</li>
                                         <li>- Peso aproximado: 6 qq</li>
                                     </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
+                                    <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
                                         Cerrar
