@@ -251,8 +251,8 @@
         <div class="py-3" id="ubi">
         
             <div id="centradoo" class="container">
-            <iframe  src="https://www.google.com/maps/d/u/0/embed?mid=1Lkj86rM6U6_9Z-JrMjZp1lLUvngZYaQv" width="640" height="480"></iframe>
-                
+            <!-- <iframe  src="https://www.google.com/maps/d/u/0/embed?mid=1Lkj86rM6U6_9Z-JrMjZp1lLUvngZYaQv" width="640" height="480"></iframe> -->
+                <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1yLFqPDfGUMHfiqgenmppsRiQ3OqKv4Q5" width="640" height="480"></iframe>
                 <!-- <div > -->
                     <!-- <div class="col-lg-4 my-3 my-lg-0"> -->
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> -->
