@@ -17,3 +17,12 @@ mix.styles([
 .scripts([
     'resources/js/plantilla/js/scripts.js'
 ], 'public/js/plantilla.js');
+mix.styles([
+    'resources/js/plantilla/css/sb-admin-2.css',
+    'resources/js/plantilla/css/sb-admin-2.min.css'
+], 'public/css/sistema.css')
+.scripts([
+    'resources/js/plantilla/js/sb-admin-2.js',
+    'resources/js/plantilla/js/sb-admin-2.min.js'
+], 'public/js/sistema.js')
+.js(['resources/js/app.js'], 'public/js/app.js');

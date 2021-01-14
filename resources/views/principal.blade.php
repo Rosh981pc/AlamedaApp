@@ -17,6 +17,7 @@
         <link href="css/plantilla.css" rel="stylesheet" />
     </head>
     <body id="page-top">
+        
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
@@ -32,7 +33,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi"><strong>Ubicación</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
-                        <!-- <li class="nav-item"><a class="nav-link href="#"><strong>INGRESAR</strong></a></li> -->
+                        <li class="nav-item"><a class="nav-link" href="sistema"><strong>INGRESAR</strong></a></li>
                     </ul>
                 </div>
             </div>
@@ -602,5 +603,6 @@
         <script src="assets/mail/contact_me.js"></script>
         <!-- Core theme JS-->
         <script src="js/plantilla.js"></script>
+    <!-- </div> -->
     </body>
 </html>
