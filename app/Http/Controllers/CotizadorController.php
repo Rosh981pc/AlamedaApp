@@ -20,7 +20,8 @@ class CotizadorController extends Controller
         $for = "jru981@gmail.com";
         // $new_message = "Numero de teléfono: " + $request->phone + "";
         Mail::to($for)->queue(new MessageRecived($message));
-        return \View::make("principal");
+        // return \View::make("principal");
+        return redirect()->back();
         
     }
 }

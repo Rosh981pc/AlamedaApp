@@ -33,7 +33,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi"><strong>Ubicación</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
-                        <li class="nav-item"><a class="nav-link" href="sistema"><strong>INGRESAR</strong></a></li>
+                        <li class="nav-item"><a class="nav-link" href="login"><strong>INGRESAR</strong></a></li>
                     </ul>
                 </div>
             </div>

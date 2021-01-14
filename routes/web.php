@@ -14,6 +14,9 @@
 Route::get('/', function () {
     return view('principal');
 });
+Route::get('/login', function () {
+    return view('sistemalog');
+});
 Route::get('/sistema', function () {
     return view('sistema');
 });
