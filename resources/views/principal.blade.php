@@ -41,9 +41,10 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">.</div>
+                
                 <div id="concha" class=" masthead-heading text-uppercase ">A puro tubo! </div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">¿Quienes somos?</a>
+                <div id="concha2" class="masthead-subheading">Tel. 7768-9199</div>
+                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Cotizar</a>
             </div>
         </header>
         <!-- Services-->
@@ -543,7 +544,7 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPRESADO </h2>
+                                    <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPACTADO </h2>
                                     <p class="item-intro text-muted">Diametros interiores de 20" a 50"</p>
                                     
                                     <p><strong>Tubo de 20" estandar con junta de mortero.</strong></p>
