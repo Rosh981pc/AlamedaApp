@@ -33,7 +33,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about"><strong>Historia</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ubi"><strong>Ubicación</strong></a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact"><strong>Cotizador</strong></a></li>
-                        <li class="nav-item"><a class="nav-link" href="login"><strong>INGRESAR</strong></a></li>
+                        <!-- <li class="nav-item"><a class="nav-link" href="login"><strong>INGRESAR</strong></a></li> -->
                     </ul>
                 </div>
             </div>
@@ -283,7 +283,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Cotiza aquí</h2>
-                    <h3 class="section-subheading text-muted"><p>Ingrese sus datos de contacto y los productos que desea cotiza, <br>un representante de ventas se comunicara con usted lo mas pronto posible <br>ó <br>Tel. 7768-9199</p></h3>
+                    <h3 class="section-subheading text-muted2"><p>Ingrese sus datos de contacto y los productos que desea cotiza, <br>un representante de ventas se comunicara con usted lo mas pronto posible <br>ó <br><strong>Tel. 7768-9199</strong></p></h3>
                     <!-- <h3 class="section-subheading text-muted">un representante de ventas se comunicara con usted lo mas pronto posible.</h3> -->
                 </div>
                 <!-- <form id="contactForm" name="sentMessage" novalidate="novalidate"> -->
@@ -333,8 +333,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-left">ROSHMANE© Alameda de Occidente 2020</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a> -->
-                        <a class="btn btn-dark btn-social mx-2" href="https://es-la.facebook.com/Alameda-de-Occidente-SA-157345574313545/"><i class="fab fa-facebook-f"></i></a>
+                        <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-whatsapp"></i></a> -->
+                        <a class="btn btn-dark btn-social mx-2" href="https://es-la.facebook.com/Alameda-de-Occidente-SA-157345574313545/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
                     </div>
                     <div class="col-lg-4 text-lg-right">
