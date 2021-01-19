@@ -17,7 +17,7 @@ class CotizadorController extends Controller
             'phone' => 'required',
             'message' => 'required'
         ]);
-        $for = "jru981@gmail.com";
+        $for = "tubosalameda@gmail.com";
         // $new_message = "Numero de teléfono: " + $request->phone + "";
         Mail::to($for)->queue(new MessageRecived($message));
         // return \View::make("principal");
