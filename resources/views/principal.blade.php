@@ -44,7 +44,7 @@
                 
                 <div id="concha" class=" masthead-heading text-uppercase ">A puro tubo! </div>
                 <div id="concha2" class="masthead-subheading">Tel. 7768-9199</div>
-                <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Cotizar</a>
+                <a id="concha3" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Cotizar</a>
             </div>
         </header>
         <!-- Services-->
@@ -195,11 +195,11 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>1987</h4>
-                                <h4 class="subheading">Fundación de la fabrica Alameda de Occidente</h4>
+                                <h4 class="subheading">Fundación de Fabrica Alameda de Occidente</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Año en cual Vinicio Cerezo fue electo como el presidente de la República. 
+                            <div class="timeline-body"><p class="text-muted">
                                 El fundador junto con un socio ingeniero llegaron a Quetzaltenango en búsqueda de un terreno que cumpliera con sus expectativas, 
-                                dando como resultado el un terreno pantanoso el cual el fundador y socio trabajaron para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
+                                dando como resultado un terreno pantanoso, el cual fue trabajaron para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -209,7 +209,7 @@
                                 <h4>1989</h4>
                                 <h4 class="subheading">Implementación de drenaje en el casco urbano de San Mateo</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">En esa época el gobierno aumentó el capital de las municipalidades para que pudieran realizar sus drenajes principales de sus cascos urbanos.</p></div>
+                            <div class="timeline-body"><p class="text-muted">En esa época el gobierno aumentó el capital de las municipalidades para que pudieran realizar los drenajes principales de sus cascos urbanos.</p></div>
                         </div>
                     </li>
                     <li>
@@ -219,8 +219,7 @@
                                 <h4>1994</h4>
                                 <h4 class="subheading">Fabrica Alameda de Occidente S.A.</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Durante mucho tiempo de trabajo, el socio ingeniero decidió retirar toda relación con la fábrica en Quetzaltenango, 
-                                por lo que el fundador tomó la decisión de pagarle la parte del socio. Tiempo después el fundador inició una sociedad anónima incluyendo a dos socios diferentes.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Se inicio una sociedad anónima incluyendo a su fundador y dos socios.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -228,10 +227,10 @@
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>1990s</h4>
-                                <h4 class="subheading">Colaboración con elaboración de carreteras de la República</h4>
+                                <h4 class="subheading">Colaboración en la elaboración de carreteras de la República</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Con la llegada de la organización CARE y la implementación de la carretera de Quetzaltenango a los encuentros el 
-                                fundador compró el primer camión de la fábrica para poder entregar el material para la elaboración de la carretera, así como con una organización europea y su desarrollo de carreteras en el municipio de Panajachel.</p></div>
+                            <div class="timeline-body"><p class="text-muted">Se adquirió el primer camión para distribuir el material de los drenajes
+                                de la carretera de Quetzaltenango a Los Encuentros y algunas carreteras del municipio de Panajachel, las cuales fueron construidas por organizaciones extranjeras.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -333,7 +332,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-left">ROSHMANE© Alameda de Occidente 2020</div>
                     <div class="col-lg-4 my-3 my-lg-0">
-                        <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-whatsapp"></i></a> -->
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-whatsapp"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="https://es-la.facebook.com/Alameda-de-Occidente-SA-157345574313545/" target="_blank"><i class="fab fa-facebook-f"></i></a>
                         <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
                     </div>
