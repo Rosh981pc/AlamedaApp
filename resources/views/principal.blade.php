@@ -45,6 +45,7 @@
                 <div id="concha" class=" masthead-heading text-uppercase ">A puro tubo! </div>
                 <div id="concha2" class="masthead-subheading">Tel. 7768-9199</div>
                 <a id="concha3" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact">Cotizar</a>
+                <a id="concha3" class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#contact"><i class="fab fa-whatsapp"></i></a>
             </div>
         </header>
         <!-- Services-->
