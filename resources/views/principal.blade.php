@@ -500,7 +500,7 @@
                                     <p class="item-intro text-muted">Diametros interiores de 6" a 18"</p>
 
 
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/imgtec-giro.png" alt="" />
+                                    <a href="https://tubosalameda.com/jfk/productos/tubos/giropren.jpg" target="_blank" ><i><img class="img-fluid d-block mx-auto" src="assets/img/imgtec-giro.png" alt="" /></i></a>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
                                     
@@ -530,7 +530,7 @@
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPACTADO </h2>
                                     <p class="item-intro text-muted">Diametros interiores de 18" a 51"</p>
                                     
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/imgtec-vib.png" alt="" />
+                                    <a href="https://tubosalameda.com/jfk/productos/tubos/vibrock.jpg" target="_blank" ><i><img class="img-fluid d-block mx-auto" src="assets/img/imgtec-vib.png" alt="" /></i></a>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
                                     
                                     
