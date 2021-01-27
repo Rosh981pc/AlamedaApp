@@ -498,30 +498,13 @@
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO GIROPRENSADO </h2>
                                     <p class="item-intro text-muted">Diametros interiores de 6" a 18"</p>
-                                    
+
+
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/imgtec-giro.png" alt="" />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
                                     
-                                    <p><strong>Tubo de 12" (305mm) de campana con junta de mortero.</strong></p>
-                                    <ul class="list-inline">
-                                        <li><strong>Caracteristicas:</strong></li>
-                                        <li>- Diametro interior(Nominal): 12"</li>
-                                        <li>- Longitud interna: 97cm</li>
-                                        <li>- Longitud total: 100cm</li>
-                                        <li>- Espesor de las paredes: 30mm</li>
-                                        <li>- Peso aproximado: 1 qq</li>
-                                    </ul>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
-                                    
-                                    <p><strong>Tubo de 16" (406mm) estandar con junta de mortero.</strong></p>
-                                    <ul class="list-inline">
-                                        <li><strong>Caracteristicas:</strong></li>
-                                        <li>- Diametro interior(Nominal): 16"</li>
-                                        <li>- Longitud interna: 1.05m</li>
-                                        <li>- Longitud total: 108cm</li>
-                                        <li>- Espesor de las paredes: 76mm</li>
-                                        <li>- Peso aproximado: 1.75 qq</li>
-                                    </ul>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                   
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
@@ -545,49 +528,20 @@
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
                                     <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPACTADO </h2>
-                                    <p class="item-intro text-muted">Diametros interiores de 20" a 50"</p>
+                                    <p class="item-intro text-muted">Diametros interiores de 18" a 51"</p>
                                     
-                                    <p><strong>Tubo de 20" estandar con junta de mortero.</strong></p>
-                                    <ul class="list-inline">
-                                        <li><strong>Caracteristicas:</strong></li>
-                                        <li>- Diametro interior(Nominal): 20"</li>
-                                        <li>- Longitud interna: 0.945m</li>
-                                        <li>- Longitud total: 1.0m</li>
-                                        <li>- Espesor de las paredes: 75mm</li>
-                                        <li>- Peso aproximado: 2 qq</li>
-                                    </ul>
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/imgtec-vib.png" alt="" />
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
                                     
-                                    <p><strong>Tubo de 30" (406mm) perforado con junta de mortero.</strong></p>
-                                    <ul class="list-inline">
-                                        <li><strong>Caracteristicas:</strong></li>
-                                        <li>- Diametro interior(Nominal): 760mm</li>
-                                        <li>- Longitud interna: 0.94m</li>
-                                        <li>- Longitud total: 1m</li>
-                                        <li>- Espesor de las paredes: 100mm</li>
-                                        <li>- Peso aproximado: 5.5 qq</li>
-                                        <li>- Perforaciones: 12</li>
-                                        <li>- Diametro aproximado de perforación: 1 3/4"</li>
-                                    </ul>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
                                     
-                                    <p><strong>Tubo de 30" (406mm) reforzado con junta de mortero.</strong></p>
-                                    <ul class="list-inline">
-                                        <li><strong>Caracteristicas:</strong></li>
-                                        <li>- Diametro interior(Nominal): 30"</li>
-                                        <li>- Longitud interna: 0.94m</li>
-                                        <li>- Longitud total: 1m</li>
-                                        <li>- Espesor de las paredes: 100mm</li>
-                                        <li>- Peso aproximado: 6 qq</li>
-                                    </ul>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
+                                    
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
                                         Cerrar
                                     </button>
-                                </div>
+                                </div> 
                             </div>
                         </div>
                     </div>
