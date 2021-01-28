@@ -496,14 +496,14 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">TUBOS DE CEMENTO GIROPRENSADO </h2>
-                                    <p class="item-intro text-muted">Diametros interiores de 6" a 18"</p>
+                                    <h2 class="text-uppercase">TUBERÍA DE CEMENTO GIROPREN&reg;<br> con junta de mortero </h2>
+                                    <p class="item-intro text-muted">Diametros interiores de 4" a 18"</p>
 
 
                                     <a href="https://tubosalameda.com/jfk/productos/tubos/giropren.jpg" target="_blank" ><i><img class="img-fluid d-block mx-auto" src="assets/img/imgtec-giro.png" alt="" /></i></a>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
-                                    
+                                    <p>Disponibilida de tubos de cemento liso sin camapan de:<br> - 6" - 12" - 16" - 18"</p>
                                    
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
@@ -527,15 +527,20 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">TUBOS DE CEMENTO VIBROCOMPACTADO </h2>
-                                    <p class="item-intro text-muted">Diametros interiores de 18" a 51"</p>
+                                    <h2 class="text-uppercase">TUBERÍA DE CONCRETO VIBROCK&reg; <br>con junta de mortero </h2>
+                                    <p class="item-intro text-muted">Diametros interiores de 20" a 50"</p>
                                     
                                     <a href="https://tubosalameda.com/jfk/productos/tubos/vibrock.jpg" target="_blank" ><i><img class="img-fluid d-block mx-auto" src="assets/img/imgtec-vib.png" alt="" /></i></a>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo16.png" alt="" />
                                     
                                     
                                     
-                                    <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
+                                    <p>El tubo de concreto es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
+                                    <p>Algunas características que se ofrecen en la fabricación:<br> - Tubo filtro tipo pichacha en medidas de:<br>     - 24” - 30” - 36” - 42”<br>
+                                     - Tubo perforado con 12 perforaciones rusticas en medidas de:<br>     - 20” - 24" - 30” - 32” - 42”<br>
+                                      - Tubo reforzado con alma de hierro en medidas de:<br>     - 24” - 30” - 36” - 42” - 50"<br>Nota: la tubería de 42” y 50” esta reforzada con armadura de hierro acerado con diámetro de 4.5mm, una canasta que nosotros elaboramos.<br>
+                                      <br>Fabricación de tubería de 24” 30” 36” 42” y 50” en alturas según especificación del cliente a partir de los 25cm de altura.</p> 
+                                    <!-- <img class="img-fluid2 d-block mx-auto" src="assets/img/portfolio/filtro.jpg" alt="" /> -->
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times mr-1"></i>
