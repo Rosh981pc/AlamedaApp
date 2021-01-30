@@ -355,17 +355,18 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here-->
-                                    <h2 class="text-uppercase">BROCAL MAS TAPADERA DE CONCRETO REFORZADO</h2>
+                                    <h2 class="text-uppercase">BROCAL DE CONCRETO REFORZADO</h2>
                                     <!-- <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p> -->
                                     <!-- <p> </p> -->
                                     <!-- <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p> -->
                                     
                                     <ul class="list-inline">
-                                        <li><strong>Diametros interiores:</strong></li>
+                                        <li><strong>En los siguiente diametros externos:</strong></li>
                                         <li>- 50 cm</li>
                                         <li>- 80 cm</li>
                                         <li>- 100 cm</li>
                                         <li>- 120 cm</li>
+                                        <li>- 136 cm</li>
                                     </ul>
                                     <ul class="list-inline">
                                         <li><strong>Caracteristicas:</strong></li>
@@ -503,7 +504,7 @@
                                     <a href="https://tubosalameda.com/jfk/productos/tubos/giropren.jpg" target="_blank" ><i><img class="img-fluid d-block mx-auto" src="assets/img/imgtec-giro.png" alt="" /></i></a>
                                     <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/imgtec-tubo12.png" alt="" />
                                     <p>El tubo de cemento es un producto que se ajusta a las necesidades del proyecto, en sus distintos grados de resistencia, durabilidad, aplicación o por el tipo de instalación.<br>En su fabricación se emplea como materia prima, cemento resistente a sulfatos asegurando la durabilidad en obra.<br>Por su diseño confiable y rápida instalación, el tubo de concreto asegura no incrementar costos en obra.</p>
-                                    <p>Disponibilida de tubos de cemento liso sin camapan de:<br> - 6" - 12" - 16" - 18"</p>
+                                    <p>Disponibilida de tubos de cemento liso sin campana de:<br> - 6" - 12" - 16" - 18"</p>
                                    
                                     <p><strong>Normas</strong><br> - ASTM C-76 CLASE II (COGUANOR NTG41077) <br>- C-14 (COGUANOR NGT41072)</p>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
