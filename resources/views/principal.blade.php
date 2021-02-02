@@ -200,7 +200,7 @@
                             </div>
                             <div class="timeline-body"><p class="text-muted">
                                 El fundador junto con un socio ingeniero llegaron a Quetzaltenango en búsqueda de un terreno que cumpliera con sus expectativas, 
-                                dando como resultado un terreno pantanoso, el cual fue trabajaron para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
+                                dando como resultado un terreno pantanoso, el cual fue trabajado para que la actual fabrica de tubos y productos de cemento se estableciera.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
